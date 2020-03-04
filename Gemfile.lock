@@ -129,7 +129,7 @@ GEM
       mini_portile2 (~> 2.4.0)
     popper_js (1.16.0)
     public_suffix (4.0.3)
-    puma (3.12.2)
+    puma (3.12.4)
     rack (2.0.8)
     rack-test (0.6.3)
       rack (>= 1.0)
@@ -226,7 +226,7 @@ DEPENDENCIES
   mini_magick
   momentjs-rails
   mysql2 (>= 0.3.18, < 0.6.0)
-  puma (~> 3.0)
+  puma (~> 3.12)
   rails (~> 5.0.7, >= 5.0.7.2)
   rails-i18n
   rakuten_web_service
